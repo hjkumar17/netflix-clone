@@ -1,0 +1,9 @@
+.user{
+    background-color: aqua;
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+}
+.user:hover{
+    cursor: pointer;
+}
